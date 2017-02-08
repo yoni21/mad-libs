@@ -1,16 +1,22 @@
 Fighting evil by ____bible__, winning love by ______
 Never running from a __train____, she is the one named __hero____.
 
+<<<<<<< HEAD
 She will never turn her back on her __family____.
 She is always there to __make me smile____.
 She is the one in whom we can ______.
+=======
+She will never turn her back on her sailor.
+She is always there to fight.
+She is the one in whom we can trust.
+>>>>>>> bd375404c1ed95b14661e9d5a9fdd3c7bbb00045
 
 She is the one named Sailorrrrrr ...
 
-Sailor ______!
-Sailor ______!
-Sailor ______!
-Sailor ______!
+Sailor Eggs!
+Sailor Bacon!
+Sailor Toast!
+Sailor Hashbrowns!
 
 With secret powers all so new to her
-She is the one named ______.
+She is the one named Breakfast.
